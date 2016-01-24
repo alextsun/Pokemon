@@ -1,0 +1,1 @@
+This is a game I wrote during junior year of high school.  It allows you to choose 6 pokemon and have a battle with your rival.  The game is INCOMPLETE - when either player loses, the game will not show any message -- instead nothing will happen.  Recommended to choose "evil" mode - has best animations from rival's pokemon.
